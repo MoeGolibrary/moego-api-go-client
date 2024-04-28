@@ -1,0 +1,1 @@
+# moego-api-go-client
